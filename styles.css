@@ -1,0 +1,23 @@
+.container {
+    display: block;
+    margin: 0 auto;
+    width: fit-content;
+}
+
+form * {
+    max-width: 300px;
+    display: flex;
+
+}
+
+fieldset {
+    border: none;
+}
+
+button {
+    border: none;
+    height: 30px;
+    width: 120px;
+    border-radius: 4px;
+    margin-top: 20px;
+}
